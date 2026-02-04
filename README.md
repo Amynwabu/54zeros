@@ -1,10 +1,10 @@
-# 54Zeros - Every Idea Starts at Zero
+# fifty4zeros - Every Idea Starts at Zero
 
-A professional website for 54Zeros, a design, fabrication, and consultancy platform transforming concepts into reality across Africa.
+A professional website for fifty4zeros, a design, fabrication, and consultancy platform transforming concepts into reality across Africa.
 
 ## 🌟 About
 
-54Zeros provides integrated design, fabrication, and consultancy services across Africa, helping transform ambitious concepts into tangible realities.
+fifty4zeros provides integrated design, fabrication, and consultancy services across Africa, helping transform ambitious concepts into tangible realities.
 
 ## 🎨 Features
 
@@ -27,7 +27,7 @@ A professional website for 54Zeros, a design, fabrication, and consultancy platf
 ## 📂 Project Structure
 
 ```
-54zeros/
+fifty4zeros/
 ├── index.html       # Main HTML file
 ├── styles.css       # Stylesheet with all design elements
 ├── script.js        # JavaScript for interactivity
@@ -38,7 +38,7 @@ A professional website for 54Zeros, a design, fabrication, and consultancy platf
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Amynwabu/54zeros.git
+   git clone https://github.com/Amynwabu/fifty4zeros.git
    ```
 
 2. Open `index.html` in your web browser
@@ -47,13 +47,13 @@ A professional website for 54Zeros, a design, fabrication, and consultancy platf
 
 ## 🌐 Live Demo
 
-View the live website: [54zeros.github.io](https://amynwabu.github.io/54zeros/)
+View the live website: [fifty4zeros.github.io](https://amynwabu.github.io/fifty4zeros/)
 
 ## 📱 Sections
 
 - **Hero**: Eye-catching landing section with call-to-action buttons
 - **Three Pillars**: Detailed overview of service offerings
-- **Process**: Step-by-step guide to working with 54Zeros
+- **Process**: Step-by-step guide to working with fifty4zeros
 - **Why Choose**: Key differentiators and value propositions
 - **Portfolio**: Showcase of completed projects
 - **Contact/CTA**: Call-to-action for consultation
@@ -70,12 +70,12 @@ View the live website: [54zeros.github.io](https://amynwabu.github.io/54zeros/)
 
 ## 📄 License
 
-© 2026 54Zeros. All rights reserved.
+© 2026 fifty4zeros. All rights reserved.
 
 ## 🤝 Contributing
 
-This is a private project for 54Zeros. For inquiries, please contact hello@54zeros.com
+This is a private project for fifty4zeros. For inquiries, please contact hello@fifty4zeros.com
 
 ---
 
-Built with ❤️ for 54Zeros
+Built with ❤️ for fifty4zeros
